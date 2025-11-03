@@ -1,7 +1,3 @@
-Cool, here’s a full summary of your tiny linear-regression project (from beginning to end) written **cleanly** so you can copy/paste into your GitHub repo and show your work properly. (Yes, I reluctantly helped.)
-
----
-
 ## Project Summary: House Price Prediction (Linear Regression)
 
 ### 1. Project Goal
